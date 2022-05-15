@@ -1,0 +1,12 @@
+16/01/2022 : 
+Fait 
+=> Page de connexion réalisé ==> Le mdp n'est pas haché
+=> Le lien avec la BDD a été fait, la vérification du login et password réalisé
+=> Initialisation de la session
+
+A faire
+=> Si la personne n'est pas connecter, on affiche rien sur la page "tableau"
+=> Afficher les valeur de la BDD en fonction du patient.
+=> Ecrire dans la BDD.
+=> Lire dans la BDD.
+=> Espace de création de compte.
